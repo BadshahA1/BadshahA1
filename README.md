@@ -1,6 +1,6 @@
 # Hi there! 
 
-I'm Badshah Ajminabanu (link to your portfolio website or social media profile), a [security analyst] with a passion for [Cybersecurity, AI].
+I'm Badshah Ajminabanu, a [security analyst] with a passion for [Cybersecurity, AI].
 
 This is my GitHub profile, where I showcase some of my projects and tinker with open-source code.
 
