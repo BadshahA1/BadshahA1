@@ -13,7 +13,8 @@ This is my GitHub profile, where I showcase some of my projects and tinker with 
 ##  Skills
 
 * Python
-* JavaScript
+* PHP
+* SQL
 * Machine Learning
 * Cybersecurity
 
