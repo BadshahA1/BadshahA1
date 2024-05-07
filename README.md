@@ -7,7 +7,7 @@ This is my GitHub profile, where I showcase some of my projects and tinker with 
 ##  Projects
 
 * **[Departed Employees](https://github.com/BadshahA1/DepartingEmployees)**: An automated script based on security policy to disable employees leaving the company
-* **[Project 2 name](link to the repository)**: [Short description of the project]
+* **[SQL Injection](https://github.com/BadshahA1/SQLInjection)**: Showing how to use parameterized queries with SQLite libraries in python and MySQLi extension in PHP
 * **[Project 3 name](link to the repository)**: [Short description of the project]
 
 ##  Skills
